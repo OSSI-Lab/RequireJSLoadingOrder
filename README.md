@@ -4,7 +4,7 @@
 #
 #
 
-- DESCRIPTION:
+## DESCRIPTION:
  - general example of one of the two fundamental concepts of code encaplsulation in JavaScript (IIFE, AMD)
  - project demostrating module loading using <strong>require</strong> and <strong>define</strong> (how the differ from each other)
  - this is working example of JavaScript AMD pattern (Asynchronous Module Definition) using RequireJS http://requirejs.org/
@@ -13,4 +13,4 @@
  - easy to use && self-explanatory
  - <strong>I used to use it (now I don't have such opportunity) and it worked perfectly. </strong>
  
-### <strong>UPDATED 2017-06-08 15:19:00 GMT +01:00</strong>
+### <strong>UPDATED 2017-06-08 15:20:00 GMT +01:00</strong>
