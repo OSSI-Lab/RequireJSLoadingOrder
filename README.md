@@ -1,4 +1,3 @@
-<img src="https://github.com/Dabrowski-Software-Development/RequireJSLoadingOrder/blob/master/github_json2sql.png"></img>
 # [ ASP .NET MVC ]
 # JavaScript AMD pattern (examplary app) &nbsp;&nbsp;&nbsp;:zero:.:zero:.:zero:
 #
@@ -13,4 +12,4 @@
  - easy to use && self-explanatory
  - <strong>I used to use it (now I don't have such opportunity) and it worked perfectly. </strong>
  
-### <strong>UPDATED 2017-06-08 15:20:00 GMT +01:00</strong>
+### <strong>UPDATED 2020-04-06 12:18 PM GMT</strong>
